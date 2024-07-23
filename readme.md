@@ -2,4 +2,7 @@
 
 - Estado del proyecto: En costrucción
 
-- para aprender a desaroolar
+- para aprender a desarrollar
+
+
+  sistema de registro 2
